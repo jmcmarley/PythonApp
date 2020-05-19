@@ -1,5 +1,7 @@
 msg = "Hello JAMAICA"
-Print (msg)
+print (msg)
 # test
 
 print ("merhaba")
+
+print("evvet")
