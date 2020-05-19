@@ -5,3 +5,5 @@ print (msg)
 print ("merhaba")
 
 print("evvet")
+
+print ("bunlarada bakalım lütfen")
